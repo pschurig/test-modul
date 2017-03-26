@@ -7,6 +7,9 @@
             "email": "pschurig@test.com"
         }
     ],
+    "require": {
+        "minimum-stability": "dev"
+    },
     "type": "laravel-module",
     "autoload": {
         "psr-4": {
