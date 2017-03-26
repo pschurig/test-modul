@@ -1,0 +1,16 @@
+{
+    "name": "pschurig/test",
+    "description": "",
+    "authors": [
+        {
+            "name": "Philipp Schurig",
+            "email": "pschurig@test.com"
+        }
+    ],
+    "type": "laravel-module",
+    "autoload": {
+        "psr-4": {
+            "Modules\\Test\\": ""
+        }
+    }
+}
